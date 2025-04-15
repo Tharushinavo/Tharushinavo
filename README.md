@@ -1,11 +1,10 @@
-### Hi there 👋
+ Hi there 👋, I'm Tharushi Navodya
 
-
-**Tharushinavo/Tharushinavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate frontend developer from Sri Lanka
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on assignments 
 - 🌱 I’m currently learning spring boot
 - 💬 Ask me about HTML,CSS,MERN
 - 📫 How to reach me: tharushinavodya233@gmail.com
